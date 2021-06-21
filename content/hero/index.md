@@ -1,10 +1,10 @@
 ---
 title: 'Hello, my name is'
-name: 'Chandrika Deb'
-subtitle: 'I love exploring new things!'
+name: 'Pacheko'
+subtitle: 'I love exploring opportunities and solutions!'
 buttonText: 'Get In Touch'
 ---
 
-I'm a Software Engineering Associate at Amdocs, India. Primarily interested in Web Development and Deep Learning.
+I'm a Computer Science Bachelor student at Multimedia University  of Kenya, Kenya. Primarily interested in Web Development, System Security and Databases.
 
-I enjoy writing tech blogs and also helping every tech beginner I come across!
+I enjoy writing tech blogs and mentoring tech beginners!
